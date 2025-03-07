@@ -3,7 +3,7 @@ package entidadFinanciera;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/*
+/**
  * Clase principal de la aplicación
  */
 
@@ -36,7 +36,7 @@ public class Main {
     
     }
 
-    /*
+    /**
      * Función para probar el método retirar de CCuenta
      * @param objetoCuenta Objeto cuenta en el que se prueba
      * @param saldoActual Saldo de la cuenta
@@ -54,7 +54,7 @@ public class Main {
         }
     }
 
-    /*
+    /**
      * Función para probar el método ingresar de CCuenta
      * @param objetoCuenta Objeto cuenta en el que se prueba
      * @param saldoActual Salfo de la cuenta
